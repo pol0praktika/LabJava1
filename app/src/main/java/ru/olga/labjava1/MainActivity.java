@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void showToast() {
-        Toast.makeText(this, "Привет, это тост!", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Показываю тост", Toast.LENGTH_SHORT).show();
     }
 }
